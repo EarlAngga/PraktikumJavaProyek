@@ -130,6 +130,8 @@ public class KecamatanViewFrame  extends JFrame{
             inputFrame.setVisible(true);
         });
 
+
+
         isiTable();
         init();
     }
